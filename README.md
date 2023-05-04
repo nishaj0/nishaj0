@@ -4,7 +4,7 @@
 <br>
 <h3> 💻 &nbsp;About Me </h3>
 
-- 👨‍💻 I’m currently working on web development technologies like React js, Node js, Next js etc.
+- 👨‍💻 I’m currently working on web development technologies like React js, Node js, Expess js etc.
 - 📚 I’m currently learning JavaScript Game Development 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas. 
 

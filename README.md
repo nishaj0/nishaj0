@@ -28,7 +28,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
   <br>
-<!--
+
 <h3>📊 &nbsp; GitHub Stats </h3>
 <p>
 <a href="">
@@ -36,7 +36,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishaj0&show_icons=true&theme=tokyonight" />
   <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishaj0&theme=tokyonight" />
--->
+
 </a>
 </p>
 

@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Nishaj (Zyro)
 
-## I'm a Web Developer
+## I'm a MERN Stack Developer
 <br>
 <h3> 💻 &nbsp;About Me </h3>
 

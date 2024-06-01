@@ -41,7 +41,7 @@
   
 </div>
 
-<h3>📊 &nbsp; GitHub Stats </h3>
+<!--<h3>📊 &nbsp; GitHub Stats </h3>
 <p>
 <a href="">
 
@@ -53,3 +53,4 @@
 </p>
 
 <br>
+-->

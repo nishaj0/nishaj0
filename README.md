@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Nishaj (Zyro)
 
-## I'm a MERN Stack Developer
+## I'm a Full Stack Developer
 <br>
 <h3> 💻 &nbsp;About Me </h3>
 
@@ -41,7 +41,7 @@
   
 </div>
 
-<h3>📊 &nbsp; GitHub Stats </h3>
+<!--<h3>📊 &nbsp; GitHub Stats </h3>
 <p>
 <a href="">
 
@@ -53,3 +53,4 @@
 </p>
 
 <br>
+-->

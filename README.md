@@ -31,6 +31,11 @@
 <h3>📊 &nbsp; Weekly Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
   <h3> 🤝🏻 &nbsp;Connect with Me </h3>

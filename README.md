@@ -1,12 +1,13 @@
 # Hi there 👋, I'm Nishaj (Zyro)
 
 ## I'm a Full Stack Developer
+
 <br>
 <h3> 💻 &nbsp;About Me </h3>
 
-- 👨‍💻 I’m currently working on web development technologies like React js, Node js, Expess js etc.
-- 📚 I’m currently learning TypeScript, Three.js 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas. 
+-    👨‍💻 I’m currently working on web development technologies like React js, Node js, Expess js etc.
+-    📚 I’m currently learning TypeScript, Three.js 😅
+-    💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 <br>
 
@@ -27,6 +28,11 @@
 </div>
   <br>
 
+<h3>📊 &nbsp; Weekly Development Breakdown</h3>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
   <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <div align="center">
   
@@ -37,9 +43,11 @@
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nishaj0)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:njnishaj0@gmail.com)
 
-
-  
+<br>
 </div>
+<br>
+  
+
 
 <!--<h3>📊 &nbsp; GitHub Stats </h3>
 <p>

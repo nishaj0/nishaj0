@@ -5,8 +5,8 @@
 <br>
 <h3> 💻 &nbsp;About Me </h3>
 
--    👨‍💻 I’m currently working on web development technologies like React js, Node js, Expess js etc.
--    📚 I’m currently learning TypeScript, Three.js 😅
+-    👨‍💻 I’m currently working as a web developer 
+-    📚 I’m currently learning  Three.js and GoLang 😅
 -    💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 <br>

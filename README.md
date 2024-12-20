@@ -6,7 +6,7 @@
 <h3> 💻 &nbsp;About Me </h3>
 
 -    👨‍💻 I’m currently working as a web developer 
--    🌱 I’m currently learning  Three.js and Go 😅
+-    🌱 I’m currently learning  GDScript and Go 😅
 -    🔮 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 <br>

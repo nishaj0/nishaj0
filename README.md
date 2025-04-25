@@ -33,10 +33,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         2 hrs 35 mins   ██████████████▓░░░░░░░░░░   58.70 %
-TypeScript   1 hr 40 mins    █████████▓░░░░░░░░░░░░░░░   38.03 %
-SSH Config   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+TypeScript   1 hr 40 mins    ███████████████████████░░   92.09 %
+SSH Config   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->

@@ -33,9 +33,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 9 mins     ██████████████████████░░░   88.47 %
-JSON         6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
-SSH Config   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+TypeScript   1 hr 35 mins    ████████████████████▓░░░░   82.89 %
+JSON         15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
+SSH Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->

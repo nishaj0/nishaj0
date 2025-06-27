@@ -33,7 +33,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML   3 hrs 36 mins   █████████████████████████   100.00 %
+HTML       5 hrs 31 mins   ████████████████████████░   95.74 %
+Makefile   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->

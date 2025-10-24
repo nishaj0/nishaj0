@@ -23,7 +23,7 @@
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
-	<code><img width="40" src="https://avatars.githubusercontent.com/u/26492485?s=280&v=4" alt="Docker" title="Docker"/></code>
+	<code><img width="40" src="https://avatars.githubusercontent.com/u/26492485?s=280&v=4" alt="Discord.js" title="Docker"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
   <!-- made with: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 </div>

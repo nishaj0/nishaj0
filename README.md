@@ -34,11 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         12 mins               █████████░░░░░░░░░░░░░░░░   35.86 %
-Other        12 mins               ████████▓░░░░░░░░░░░░░░░░   34.38 %
-Markdown     7 mins                █████░░░░░░░░░░░░░░░░░░░░   20.47 %
-HTML         1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-Git Config   1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

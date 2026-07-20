@@ -2,6 +2,8 @@
 
 ## I'm a Software Developer
 
+<!--START_SECTION:aboutme-->
+
 <br>
 <h3> 💻 &nbsp;About Me </h3>
 
@@ -9,6 +11,8 @@
 -    🔮 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 <br>
+
+<!--END_SECTION:aboutme-->
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 

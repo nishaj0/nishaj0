@@ -4,13 +4,7 @@
 
 <!--START_SECTION:aboutme-->
 
-<br>
-<h3> 💻 &nbsp;About Me </h3>
 
--    👨‍💻 I’m currently working as a web developer 
--    🔮 Future Goals: Learn more technologies - Never stop creating new ideas.
-
-<br>
 
 <!--END_SECTION:aboutme-->
 

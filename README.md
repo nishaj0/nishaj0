@@ -25,7 +25,6 @@
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
   <!-- made with: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 </div>
-(everything now lol.)
   <br>
 
 <h3>📊 &nbsp; Weekly Development Breakdown</h3>

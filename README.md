@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <a href="https://cozy-hallway.zyrodev.in/">
     <img src="cozy-room.png" alt="A cozy pixel-art room from Cozy Hallway: a desk with a computer, a bed, a sofa facing a TV, plants and a cat" width="100%">
   </a>
@@ -6,11 +6,11 @@
   <sub><i>A room from <a href="https://cozy-hallway.zyrodev.in/">Cozy Hallway</a>, the game I'm building right now</i></sub>
 </p>
 
-<h1 align="center">Nishaj <sub>(Zyro)</sub></h1>
+<h1>Nishaj (Zyro)</h1>
 
-<p align="center"><b>Software Engineer</b></p>
+<p><b>Software Engineer</b></p>
 
-<p align="center">
+<p>
   I build all kinds of things and I like knowing how they work.<br>
   My side projects have side projects.
 </p>
